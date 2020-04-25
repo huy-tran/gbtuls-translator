@@ -1,0 +1,334 @@
+[
+  {
+    "label": "Afrikaans",
+    "value": "af"
+  },
+  {
+    "label": "Arabic",
+    "value": "ar"
+  },
+  {
+    "label": "Azerbaijani",
+    "value": "az"
+  },
+  {
+    "label": "Belarusian",
+    "value": "be"
+  },
+  {
+    "label": "Bulgarian",
+    "value": "bg"
+  },
+  {
+    "label": "Bosnian",
+    "value": "bs"
+  },
+  {
+    "label": "Catalan",
+    "value": "ca"
+  },
+  {
+    "label": "Czech",
+    "value": "cs"
+  },
+  {
+    "label": "Welsh",
+    "value": "cy"
+  },
+  {
+    "label": "Danish",
+    "value": "da"
+  },
+  {
+    "label": "German",
+    "value": "de"
+  },
+  {
+    "label": "English",
+    "value": "en"
+  },
+  {
+    "label": "Spanish",
+    "value": "es"
+  },
+  {
+    "label": "Estonian",
+    "value": "et"
+  },
+  {
+    "label": "Basque",
+    "value": "eu"
+  },
+  {
+    "label": "Persian",
+    "value": "fa"
+  },
+  {
+    "label": "Finnish",
+    "value": "fi"
+  },
+  {
+    "label": "Fijian",
+    "value": "fj"
+  },
+  {
+    "label": "Faroese",
+    "value": "fo"
+  },
+  {
+    "label": "French",
+    "value": "fr"
+  },
+  {
+    "label": "Irish",
+    "value": "ga"
+  },
+  {
+    "label": "Hindi",
+    "value": "hi"
+  },
+  {
+    "label": "Hiri Motu",
+    "value": "ho"
+  },
+  {
+    "label": "Croatian",
+    "value": "hr"
+  },
+  {
+    "label": "Haitian",
+    "value": "ht"
+  },
+  {
+    "label": "Hungarian",
+    "value": "hu"
+  },
+  {
+    "label": "Armenian",
+    "value": "hy"
+  },
+  {
+    "label": "Indonesian",
+    "value": "id"
+  },
+  {
+    "label": "Igbo",
+    "value": "ig"
+  },
+  {
+    "label": "Icelandic",
+    "value": "is"
+  },
+  {
+    "label": "Italian",
+    "value": "it"
+  },
+  {
+    "label": "Japanese",
+    "value": "ja"
+  },
+  {
+    "label": "Georgian",
+    "value": "ka"
+  },
+  {
+    "label": "Kongo",
+    "value": "kg"
+  },
+  {
+    "label": "Kazakh",
+    "value": "kk"
+  },
+  {
+    "label": "Central Khmer",
+    "value": "km"
+  },
+  {
+    "label": "Korean",
+    "value": "ko"
+  },
+  {
+    "label": "Kurdish",
+    "value": "ku"
+  },
+  {
+    "label": "Cornish",
+    "value": "kw"
+  },
+  {
+    "label": "Latin",
+    "value": "la"
+  },
+  {
+    "label": "Luxembourgish",
+    "value": "lb"
+  },
+  {
+    "label": "Ganda",
+    "value": "lg"
+  },
+  {
+    "label": "Lao",
+    "value": "lo"
+  },
+  {
+    "label": "Lithuanian",
+    "value": "lt"
+  },
+  {
+    "label": "Latvian",
+    "value": "lv"
+  },
+  {
+    "label": "Maori",
+    "value": "mi"
+  },
+  {
+    "label": "Macedonian",
+    "value": "mk"
+  },
+  {
+    "label": "Mongolian",
+    "value": "mn"
+  },
+  {
+    "label": "Malay",
+    "value": "ms"
+  },
+  {
+    "label": "Burmese",
+    "value": "my"
+  },
+  {
+    "label": "Nauru",
+    "value": "na"
+  },
+  {
+    "label": "Nepali",
+    "value": "ne"
+  },
+  {
+    "label": "Ndonga",
+    "value": "ng"
+  },
+  {
+    "label": "Dutch",
+    "value": "nl"
+  },
+  {
+    "label": "Norwegian",
+    "value": "no"
+  },
+  {
+    "label": "Polish",
+    "value": "pl"
+  },
+  {
+    "label": "Portuguese",
+    "value": "pt"
+  },
+  {
+    "label": "Romansh",
+    "value": "rm"
+  },
+  {
+    "label": "Romanian",
+    "value": "ro"
+  },
+  {
+    "label": "Russian",
+    "value": "ru"
+  },
+  {
+    "label": "Slovak",
+    "value": "sk"
+  },
+  {
+    "label": "Slovenian",
+    "value": "sl"
+  },
+  {
+    "label": "Samoan",
+    "value": "sm"
+  },
+  {
+    "label": "Somali",
+    "value": "so"
+  },
+  {
+    "label": "Albanian",
+    "value": "sq"
+  },
+  {
+    "label": "Serbian",
+    "value": "sr"
+  },
+  {
+    "label": "Swati",
+    "value": "ss"
+  },
+  {
+    "label": "Sundanese",
+    "value": "su"
+  },
+  {
+    "label": "Swedish",
+    "value": "sv"
+  },
+  {
+    "label": "Swahili",
+    "value": "sw"
+  },
+  {
+    "label": "Tamil",
+    "value": "ta"
+  },
+  {
+    "label": "Thai",
+    "value": "th"
+  },
+  {
+    "label": "Turkmen",
+    "value": "tk"
+  },
+  {
+    "label": "Turkish",
+    "value": "tr"
+  },
+  {
+    "label": "Tatar",
+    "value": "tt"
+  },
+  {
+    "label": "Ukrainian",
+    "value": "uk"
+  },
+  {
+    "label": "Urdu",
+    "value": "ur"
+  },
+  {
+    "label": "Uzbek",
+    "value": "uz"
+  },
+  {
+    "label": "Venda",
+    "value": "ve"
+  },
+  {
+    "label": "Vietnamese",
+    "value": "vi"
+  },
+  {
+    "label": "Zhuang; Chuang",
+    "value": "za"
+  },
+  {
+    "label": "Chinese",
+    "value": "zh"
+  },
+  {
+    "label": "Zulu",
+    "value": "zu"
+  }
+]
